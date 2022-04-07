@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mdsaifullah-wd
 - 👀 I’m interested in Web developing
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on Learning Web Developing
+- 🌱 I’m currently learning React
 - 📫 How to reach me ; mdsaifullah.wd@gmail.com
 
 <!---
